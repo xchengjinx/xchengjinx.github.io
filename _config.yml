@@ -16,8 +16,8 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "CV_Cheng.pdf",title: "CV"}
+  - {title: "Blog", url:"https://xchengjinx.blogspot.com/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xchengjinx@gmail.com"}
